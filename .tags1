@@ -1,0 +1,160 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^<html>$/;"	function	line:2
+head	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^<head>$/;"	function	line:3
+meta	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <meta charset="utf-8">$/;"	function	line:4
+title	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <title>App Academy Friends | PHASE 11: Icons<\/title>$/;"	function	line:5
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="http:\/\/fonts.googleapis.com\/css?family=Roboto:300,400,700" type="text\/css">$/;"	function	line:6
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/00-reset.css" type="text\/css">$/;"	function	line:7
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/01-header.css" type="text\/css">$/;"	function	line:8
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/02-notifications.css" type="text\/css">$/;"	function	line:9
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/03-layout.css" type="text\/css">$/;"	function	line:10
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/04-footer.css" type="text\/css">$/;"	function	line:11
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/05-cats.css" type="text\/css">$/;"	function	line:12
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/06-sidebar.css" type="text\/css">$/;"	function	line:13
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/07-online.css" type="text\/css">$/;"	function	line:14
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/08-thumbs.css" type="text\/css">$/;"	function	line:15
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/09-forms.css" type="text\/css">$/;"	function	line:16
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/10-posts.css" type="text\/css">$/;"	function	line:17
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/11-icons.css" type="text\/css">$/;"	function	line:18
+link	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <link rel="stylesheet" href="css\/12-modal.css" type="text\/css">$/;"	function	line:19
+body	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^<body>$/;"	function	line:21
+header	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <header class="header">$/;"	function	line:23
+nav	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^    <nav class="header-nav">$/;"	function	line:24
+h	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <h1 class="header-logo">$/;"	function	line:26
+a	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <a href="#">App Academy Friends<\/a>$/;"	function	line:27
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <ul class="header-list">$/;"	function	line:30
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li>$/;"	function	line:31
+a	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <a href="#">Notifications <strong class="badge">3<\/strong><\/a>$/;"	function	line:32
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <ul class="header-notifications">$/;"	function	line:33
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <li><a href="#">Constance likes your photo.<\/a><\/li>$/;"	function	line:34
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <li><a href="#">Tommy left you a comment.<\/a><\/li>$/;"	function	line:35
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <li><a href="#">Jonathan is now following you.<\/a><\/li>$/;"	function	line:36
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#">Profile<\/a><\/li>$/;"	function	line:39
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#">Settings<\/a><\/li>$/;"	function	line:40
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="js-modal-open">Sign In<\/a><\/li>$/;"	function	line:41
+main	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <main class="content">$/;"	function	line:47
+header	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^    <header class="content-header">$/;"	function	line:49
+h	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <h1>Sennacy The Great<\/h1>$/;"	function	line:50
+button	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <button class="content-header-add-friend"><i class="icon-small-friends"><\/i> Add Friend<\/button>$/;"	function	line:51
+section	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^    <section class="content-sidebar">$/;"	function	line:54
+a	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <a href="#" class="profile-picture">$/;"	function	line:56
+strong	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <strong class="online">Online<\/strong>$/;"	function	line:57
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:58
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <div class="profile-info">$/;"	function	line:61
+h	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <h2>Sennacy<\/h2>$/;"	function	line:62
+p	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <p>$/;"	function	line:63
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <ul class="profile-nav">$/;"	function	line:68
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#"><i class="icon-small-wall"><\/i> Wall<\/a><\/li>$/;"	function	line:69
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#"><i class="icon-small-about"><\/i> About<\/a><\/li>$/;"	function	line:70
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#"><i class="icon-small-friends"><\/i> Friends<\/a><\/li>$/;"	function	line:71
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#"><i class="icon-small-photos"><\/i> Photos<\/a><\/li>$/;"	function	line:72
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <ul class="profile-friends">$/;"	function	line:75
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="Sennacy">$/;"	function	line:76
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:77
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="Jonathan">$/;"	function	line:79
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:80
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="Tommy">$/;"	function	line:82
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:83
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="Constance">$/;"	function	line:85
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:86
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="Ned">$/;"	function	line:88
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:89
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="Kush">$/;"	function	line:91
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:92
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="CJ">$/;"	function	line:94
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:95
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="Jeff">$/;"	function	line:97
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:98
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <li><a href="#" class="thumb" title="Simon">$/;"	function	line:100
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:101
+section	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^    <section class="content-main">$/;"	function	line:106
+form	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <form class="form">$/;"	function	line:108
+a	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <a href="#" class="form-thumb thumb" title="Sennacy">$/;"	function	line:110
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:111
+fieldset	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <fieldset class="form-fieldset">$/;"	function	line:114
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="input">$/;"	function	line:115
+label	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <label for="form-title">Post Title<\/label>$/;"	function	line:116
+input	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <input id="form-title" type="text" value="Lorem Ipsum Dolor Sit Amet">$/;"	function	line:117
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="input">$/;"	function	line:120
+label	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <label for="form-textarea">Post Body<\/label>$/;"	function	line:121
+textarea	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <textarea id="form-textarea">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/textarea>$/;"	function	line:122
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="submit">$/;"	function	line:125
+button	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <button>Post To Wall<\/button>$/;"	function	line:126
+span	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <span class="button-alternative">or <strong>Cancel<\/strong><\/span>$/;"	function	line:127
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <div class="posts">$/;"	function	line:133
+article	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <article class="post">$/;"	function	line:135
+a	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <a href="#" class="post-thumb thumb" title="Sennacy">$/;"	function	line:136
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:137
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="post-body">$/;"	function	line:140
+h	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <h2><a href="#">Hello World<\/a><\/h2>$/;"	function	line:141
+p	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <p>$/;"	function	line:143
+footer	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <footer class="post-footer">$/;"	function	line:147
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^              <ul class="post-footer-info">$/;"	function	line:148
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#">Sennacy<\/a><\/li>$/;"	function	line:149
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><time datetime="2015-01-05">3 hours ago<\/time><\/li>$/;"	function	line:150
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li>541 views<\/li>$/;"	function	line:151
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^              <ul class="post-footer-tools">$/;"	function	line:153
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-comment">Comment<\/a><\/li>$/;"	function	line:154
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-reblog">Reblog<\/a><\/li>$/;"	function	line:155
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-favorite">Favorite<\/a><\/li>$/;"	function	line:156
+article	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <article class="post">$/;"	function	line:162
+a	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <a href="#" class="post-thumb thumb" title="Sennacy">$/;"	function	line:163
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:164
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="post-body">$/;"	function	line:167
+h	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <h2><a href="#">Hello World<\/a><\/h2>$/;"	function	line:168
+p	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <p>$/;"	function	line:170
+footer	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <footer class="post-footer">$/;"	function	line:174
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^              <ul class="post-footer-info">$/;"	function	line:175
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#">Sennacy<\/a><\/li>$/;"	function	line:176
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><time datetime="2015-01-05">3 hours ago<\/time><\/li>$/;"	function	line:177
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li>541 views<\/li>$/;"	function	line:178
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^              <ul class="post-footer-tools">$/;"	function	line:180
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-comment">Comment<\/a><\/li>$/;"	function	line:181
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-reblog">Reblog<\/a><\/li>$/;"	function	line:182
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-favorite">Favorite<\/a><\/li>$/;"	function	line:183
+article	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <article class="post">$/;"	function	line:189
+a	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <a href="#" class="post-thumb thumb" title="Sennacy">$/;"	function	line:190
+img	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <img src=".\/images\/cat.jpg" alt="">$/;"	function	line:191
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="post-body">$/;"	function	line:194
+h	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <h2><a href="#">Hello World<\/a><\/h2>$/;"	function	line:195
+p	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <p>$/;"	function	line:197
+footer	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <footer class="post-footer">$/;"	function	line:201
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^              <ul class="post-footer-info">$/;"	function	line:202
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#">Sennacy<\/a><\/li>$/;"	function	line:203
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><time datetime="2015-01-05">3 hours ago<\/time><\/li>$/;"	function	line:204
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li>541 views<\/li>$/;"	function	line:205
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^              <ul class="post-footer-tools">$/;"	function	line:207
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-comment">Comment<\/a><\/li>$/;"	function	line:208
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-reblog">Reblog<\/a><\/li>$/;"	function	line:209
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^                <li><a href="#" class="icon-favorite">Favorite<\/a><\/li>$/;"	function	line:210
+footer	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <footer class="footer">$/;"	function	line:221
+small	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^    <small class="footer-copy">$/;"	function	line:223
+ul	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^    <ul class="footer-links">$/;"	function	line:227
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <li><a href="#">Home<\/a><\/li>$/;"	function	line:228
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <li><a href="#">About<\/a><\/li>$/;"	function	line:229
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <li><a href="#">Terms<\/a><\/li>$/;"	function	line:230
+li	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <li><a href="#">Privacy<\/a><\/li>$/;"	function	line:231
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <div class="modal is-open">$/;"	function	line:237
+section	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^    <section class="modal-screen">$/;"	function	line:238
+section	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^    <section class="modal-form input submit">$/;"	function	line:241
+form	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^      <form class="form">$/;"	function	line:242
+fieldset	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^        <fieldset class="form-fieldset">$/;"	function	line:243
+span	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <span class="modal-close js-modal-close">&times;<\/span>$/;"	function	line:244
+h	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <h2>Welcome<\/h2>$/;"	function	line:245
+h	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <h3>Please sign in to continue.<\/h3>$/;"	function	line:246
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="input">$/;"	function	line:247
+label	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <label for="sign-in_email">Email<\/label>$/;"	function	line:248
+input	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <input id="sign-in_email" type="text" value="sennacy@appacademy.io">$/;"	function	line:249
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="input">$/;"	function	line:252
+label	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <label for="sign-in_password">Password<\/label>$/;"	function	line:253
+input	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <input type="password" name="sign-in_password" value="">$/;"	function	line:254
+div	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^          <div class="submit">$/;"	function	line:257
+button	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <button>Sign In<\/button>$/;"	function	line:258
+span	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^            <span class="button-alternative">or <strong class="js-modal-close">Cancel<\/strong><\/span>$/;"	function	line:259
+script	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.3.1\/jquery.min.js"><\/script>$/;"	function	line:266
+script	/Users/appacademy/Desktop/w6d5/css-friends-12/skeleton/12-modal.html	/^  <script>$/;"	function	line:267
