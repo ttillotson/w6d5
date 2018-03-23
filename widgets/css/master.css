@@ -1,0 +1,47 @@
+#root{
+  background-color: #F9A145;
+  padding: 10px;
+  font-family: sans-serif;
+  display: flex;
+  margin: 0;
+}
+
+#root h1 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+#root h2 {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+#root h3 {
+  font-size: 28px;
+  font-weight: 500;
+}
+#root h4 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+#root h5 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+
+#clock {
+  background-color: #665169;
+  border: 1px solid black;
+  padding: 15px 20px;
+  margin: 15px 10px;
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+#clock section{
+  justify-content: space-between;
+}

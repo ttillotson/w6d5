@@ -1,0 +1,33 @@
+html, body, header, nav, h1,h2, h3, h4, h5, h6 a	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^html, body, header, nav, h1,h2, h3, h4, h5, h6 a,$/;"	function	line:1
+ul, li, strong, main, button, i	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^ul, li, strong, main, button, i,$/;"	function	line:2
+section, img, div, h2, p, form	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^section, img, div, h2, p, form,$/;"	function	line:3
+fieldset, label, input, textarea	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^fieldset, label, input, textarea,$/;"	function	line:4
+span, article, footer, time, small	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^span, article, footer, time, small {$/;"	function	line:5
+ul	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^ul {$/;"	function	line:19
+img	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^img {$/;"	function	line:23
+input[type="password"]	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^input[type="password"],$/;"	function	line:29
+input[type="email"]	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^input[type="email"],$/;"	function	line:30
+input[type="text"]	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^input[type="text"],$/;"	function	line:31
+input[type="submit"]	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^input[type="submit"],$/;"	function	line:32
+textarea	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^textarea,$/;"	function	line:33
+button	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^button {$/;"	function	line:34
+button	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^button,$/;"	function	line:43
+input[type="submit"]	/Users/appacademy/Desktop/w6d5/widgets/css/css-reset.css	/^input[type="submit"] {$/;"	function	line:44
+html	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^<html lang="en" dir="ltr">$/;"	function	line:2
+head	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+link	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^    <link rel="stylesheet" href=".\/css\/css-reset.css">$/;"	function	line:8
+link	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^    <link rel="stylesheet" href=".\/css\/master.css">$/;"	function	line:9
+link	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^    <link href="https:\/\/fonts.googleapis.com\/css?family=Orbitron" rel="stylesheet">$/;"	function	line:10
+title	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^    <title>Widgets<\/title>$/;"	function	line:11
+body	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^  <body>$/;"	function	line:13
+div	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^    <div id="root">$/;"	function	line:14
+p	/Users/appacademy/Desktop/w6d5/widgets/index.html	/^      <p>You fucked it up. Check your root and dependencies<\/p>$/;"	function	line:15
+#root	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#root{$/;"	function	line:1
+#root h1	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#root h1 {$/;"	function	line:9
+#root h2	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#root h2 {$/;"	function	line:14
+#root h3	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#root h3 {$/;"	function	line:19
+#root h4	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#root h4 {$/;"	function	line:23
+#root h5	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#root h5 {$/;"	function	line:28
+#clock	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#clock {$/;"	function	line:34
+#clock section	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#clock section{$/;"	function	line:45
