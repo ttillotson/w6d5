@@ -42,6 +42,30 @@
   justify-content: space-between;
 }
 
-#clock section{
+#clock .right{
+  float: right
+}
+#tabs ul{
+  display: flex;
+}
+
+#tabs li {
+  background-color: #45687A;
+  border: 1px solid black;
+  padding: 10px 20px;
+  /* margin: 15px 10px; */
+  width: 100px;
   justify-content: space-between;
+  margin: none;
+  display: block;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-bottom: none;
+}
+
+#tabs article {
+  height: 40px;
+  background-color: #45687A;
+  border: solid 1px black;
+  border-top: none;
 }

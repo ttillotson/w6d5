@@ -11,4 +11,7 @@
 #root h4	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#root h4 {$/;"	function	line:23
 #root h5	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#root h5 {$/;"	function	line:28
 #clock	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#clock {$/;"	function	line:34
-#clock section	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#clock section{$/;"	function	line:45
+#clock .right	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#clock .right{$/;"	function	line:45
+#tabs ul	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#tabs ul{$/;"	function	line:48
+#tabs li	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#tabs li {$/;"	function	line:52
+#tabs article	/Users/appacademy/Desktop/w6d5/widgets/css/master.css	/^#tabs article {$/;"	function	line:66

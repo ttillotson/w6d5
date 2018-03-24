@@ -42,7 +42,7 @@ class Clock extends React.Component {
           <li><h5>Time: </h5></li>
           <li><h5>Date: </h5></li>
         </ul>
-        <ul>
+        <ul className="right">
           <li><h5>{hours}:{minutes}:{seconds}</h5></li>
           <li><h5>{day} {month} {date} {year}</h5></li>
         </ul>
